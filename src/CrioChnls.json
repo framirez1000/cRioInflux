@@ -1,0 +1,16 @@
+{   
+    "cntrllrs": {
+        "LN2": {
+         "cRio1": "xxx.yyy.www.zzz",
+         "cRio2": "xxx.yyy.www.zzz",
+         "chosen_cRio": "cRio1"
+        }
+    },
+    
+    "PV_channels": {
+        "TempChnl": "chnl0:DetTempValues",
+        "ValvesTemp": "chnl1:ValvesTempValues"
+
+    }
+
+}
